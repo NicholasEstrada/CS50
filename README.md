@@ -1,6 +1,6 @@
 # <h1 align="center"> curso de CS50 Havard </h1>
 <h4 align="center"> 
-    :construction: aprendizado curso em andamento  :construction:
+    ✅ aprendizado curso em finalizado ✅
 </h4>
 
 - Aprendizados desenvolvidos
